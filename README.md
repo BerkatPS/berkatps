@@ -1,3 +1,13 @@
+# Development Environment
+npm run db:seed
+
+# Complete Database Reset and Seed
+npm run db:reset
+
+# Full Setup (Generate, Migrate, Seed)
+npm run db:setup
+
+
 
 # Hi there  👋
 
@@ -7,11 +17,11 @@
 
 <!-- Social & Stats Section -->
 <div align="center">
-  
+
   <a href="https://github.com/BerkatPS">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-    
+
   <a href="mailto:BerkatPS@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -30,7 +40,7 @@
 <br/>
 
 <!-- Tech Stack Section -->
-## 🛠️ Technical 
+## 🛠️ Technical
 
 **Languages & Frameworks**  
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -40,5 +50,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 <br/>
