@@ -1,14 +1,3 @@
-# Development Environment
-npm run db:seed
-
-# Complete Database Reset and Seed
-npm run db:reset
-
-# Full Setup (Generate, Migrate, Seed)
-npm run db:setup
-
-
-
 # Hi there  👋
 
 <div align="center">
